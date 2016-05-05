@@ -19,7 +19,7 @@ public class Teszt {
     }
     
     public static void Hellow(){
-        System.out.println("Hellow little fellow what are you doing?");
+        System.out.println("Hello little fellow what are you doing?");
         System.out.println("woid");
     }
     
