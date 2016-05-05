@@ -13,5 +13,6 @@ public class Tester {
     public void Tester(){
         System.out.println("Test");
         
+        System.out.println("mégse");
     }
 }
